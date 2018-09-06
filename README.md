@@ -28,7 +28,9 @@ A static version of the notebooks can be obtained in the following links
 
 * for the R notebooks: http://nbviewer.jupyter.org/github/bejar/APA-Notebooks/tree/master/APA%20R/
 * for the Python notebooks: http://nbviewer.jupyter.org/github/bejar/APA-Notebooks/tree/master/APA%20Python/
+
 ---
+
 You can also find (and run) these notebooks in MS Azure (https://notebooks.azure.com)
 
 The links to the libraries are:
